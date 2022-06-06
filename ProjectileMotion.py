@@ -14,12 +14,12 @@ root.title("Projectile Motion Calculator")
 def voGrab():
     global currentVo
     currentVo = vo.get()
-    currentVo = int(currentVo)
+    currentVo = float(currentVo)
 
 def thetaGrab():
     global currentTheta 
     currentTheta = theta.get()
-    currentTheta = int(currentTheta)
+    currentTheta = float(currentTheta)
     currentTheta = math.radians(currentTheta)
     
 
