@@ -1,5 +1,6 @@
-# ProjectileMotionCalculator (tkinter)-
+# ProjectileMotionCalculator-
 Find Maximum Height, Distance, and Time when given Initial Velocity and Angle 
+# Uses tkinter
 
 
 * Calculations are done in degrees, meters, seconds *
